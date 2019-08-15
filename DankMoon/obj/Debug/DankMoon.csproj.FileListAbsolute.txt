@@ -1,0 +1,10 @@
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\bin\Debug\DankMoon.exe.config
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\bin\Debug\DankMoon.exe
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\bin\Debug\DankMoon.pdb
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\obj\Debug\DankMoon.csproj.CoreCompileInputs.cache
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\obj\Debug\DankMoon.exe
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\obj\Debug\DankMoon.pdb
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\bin\Debug\Syroot.BinaryData.xml
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\obj\Debug\DankMoon.csproj.CopyComplete
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\bin\Debug\VGAudio.xml
+C:\Users\Sam Swinson\Documents\C#\DankMoon\DankMoon\obj\Debug\DankMoon.csproj.Fody.CopyLocal.cache
